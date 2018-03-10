@@ -434,8 +434,15 @@ print("Hello,World")
 "[so Robertino10 for it received a $100,000]"
 
  
- 
+"[ robertrobertoviz43@gmail.com]"
 
+"[In the creation of the program needs]"
+
+"[to participate black ash]"
+
+"[green white yellow and red avatars!]"
+
+ 
 
 
 

@@ -442,7 +442,13 @@ print("Hello,World")
 
 "[green white yellow and red avatars!]"
 
- 
+
+
+"[robertrobertoviz43@gmail.com]"
+
+"[ state:open type:issue author:octocat]"
+
+
 
 
 

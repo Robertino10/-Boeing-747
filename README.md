@@ -449,6 +449,15 @@ print("Hello,World")
 "[ state:open type:issue author:octocat]"
 
 
+[https://github.com/Robertino10/-Boeing-747.git]
+
+"[create pure clear entities]"
+"[for the Boeing-747 program]"
+"[rom the Astral Plane from Robertino10]"
+"[state:open type:issue]"
+
+"[author:octocat]"
+
 
 
 

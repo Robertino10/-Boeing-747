@@ -468,6 +468,9 @@ print("Hello,World")
 from django.utils.import translation]"
 "[state:open type:issue author:octocat]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[Recover 2 unigue clones!]"
+"[from django.utils.deconstruct import deconstructible]"
 
 
 

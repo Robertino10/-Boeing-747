@@ -1,5 +1,5 @@
 # money.py
-# coding: utf-8
+
 
 # from django.
 
@@ -458,7 +458,9 @@ print("Hello,World")
 
 "[author:octocat]"
 
-"[Robertino10 for this program $100000]"
+"[Hello-World]"
+"[state:open type:issue author:octocat]"
+
 
 
 

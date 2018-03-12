@@ -461,6 +461,12 @@ print("Hello,World")
 "[Hello-World]"
 "[state:open type:issue author:octocat]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[from django.conf import setting]"
+"[from django.core.exceptions import ImproperlyConfigured]"
+"[from django.db.models import F]"
+from django.utils.import translation]"
+"[state:open type:issue author:octocat]"
 
 
 

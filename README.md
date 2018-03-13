@@ -478,6 +478,10 @@ from django.utils.import translation]"
 
 "[Hello-World]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[from django.utils.html import avoid_wrapping, conditional_escape]"
+"[state:open type:issue author:octocat]"
+
 
 
 

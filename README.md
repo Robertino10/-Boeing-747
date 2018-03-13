@@ -482,6 +482,7 @@ from django.utils.import translation]"
 "[from django.utils.html import avoid_wrapping, conditional_escape]"
 "[state:open type:issue author:octocat]"
 
+"[state:open type:issue label:"bug"]"
 
 
 

@@ -476,6 +476,7 @@ from django.utils.import translation]"
 "[state:open type:issue]"
 "[label:"bug"]"
 
+"[Hello-World]"
 
 
 

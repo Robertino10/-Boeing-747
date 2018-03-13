@@ -472,6 +472,11 @@ from django.utils.import translation]"
 "[Recover 2 unigue clones!]"
 "[from django.utils.deconstruct import deconstructible]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[state:open type:issue]"
+"[label:"bug"]"
+
+
 
 
 

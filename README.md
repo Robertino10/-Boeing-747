@@ -484,6 +484,15 @@ from django.utils.import translation]"
 
 "[state:open type:issue label:"bug"]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[from django.utils.safestring import mark_safe]"
+
+"[from djmoney.settings import DECIMAL_PLAGES]"
+"[from moneyed import Currency, Money as DefaultMoney
+"[from moneyed.localization import _FORMATTER, format_money]"
+
+
+"[state:open type:issue author:octocat]"
 
 
 

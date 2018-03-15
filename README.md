@@ -494,6 +494,23 @@ from django.utils.import translation]"
 
 "[state:open type:issue author:octocat]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+
+"[Using pip:]"
+
+"[pip install django-money]"
+"[This automatically installs py-moneyed v0 . 7 (or later) .]"
+
+"[Add djmoney to your INSTALLED_APPS. This is reguired so that money field are displayed correctly in the admin.]"
+
+"[INSTALLED_APPS = []"
+
+"[...,]"
+"['djmoney',]"
+"[...]"
+
+"[]"
+
 
 
 

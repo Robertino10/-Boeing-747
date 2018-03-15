@@ -519,6 +519,16 @@ from django.utils.import translation]"
 "[class BankAccount(models.Model):
   "[balance = MoneyField(max_digits=10, decimal_places=2, default_currency='USD')]"
   
+[https://github.com/Robertino10/-Boeing-747.git]
+"[from djmoney import Money]"
+
+
+"[account = BankAccount.objects.create(balance=Money(10, 'USD'))]"
+"[swissAccount = BankAccount.objects.create(balance=Money(10, 'CHF'))]"
+
+
+"[BankAccount.objects.filter(balance__gt=Money(1, 'USD'))]"
+"[# Returns the "account" object]"
 
 
 

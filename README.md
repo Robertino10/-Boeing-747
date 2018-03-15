@@ -511,6 +511,15 @@ from django.utils.import translation]"
 
 "[]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[from djmoney.models.fields import NoneyField
+"[from django.db import models]"
+
+
+"[class BankAccount(models.Model):
+  "[balance = MoneyField(max_digits=10, decimal_places=2, default_currency='USD')]"
+  
+
 
 
 

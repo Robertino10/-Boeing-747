@@ -494,6 +494,66 @@ from django.utils.import translation]"
 
 "[state:open type:issue author:octocat]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+
+"[Using pip:]"
+
+"[pip install django-money]"
+"[This automatically installs py-moneyed v0 . 7 (or later) .]"
+
+"[Add djmoney to your INSTALLED_APPS. This is reguired so that money field are displayed correctly in the admin.]"
+
+"[INSTALLED_APPS = []"
+
+"[...,]"
+"['djmoney',]"
+"[...]"
+
+"[]"
+
+[https://github.com/Robertino10/-Boeing-747.git]
+"[from djmoney.models.fields import NoneyField
+"[from django.db import models]"
+
+
+"[class BankAccount(models.Model):
+  "[balance = MoneyField(max_digits=10, decimal_places=2, default_currency='USD')]"
+  
+[https://github.com/Robertino10/-Boeing-747.git]
+"[from djmoney import Money]"
+
+
+"[account = BankAccount.objects.create(balance=Money(10, 'USD'))]"
+"[swissAccount = BankAccount.objects.create(balance=Money(10, 'CHF'))]"
+
+
+"[BankAccount.objects.filter(balance__gt=Money(1, 'USD'))]"
+"[# Returns the "account" object]"
+
+[https://github.com/Robertino10/-Boeing-747.git]
+
+"[import simpy]"
+
+"[def clock(env, name,tick):]"
+   "[while True:]"
+       "[print(name, env.now)]"
+       "[yield env.timeout(tick)]"
+       
+
+"[env = simpy.Environment ()]"
+"[env.process (clock(env, 'fast', 0.5))]"
+"[Process(clock) object at 0x...>]"
+"[env.process(clock(env, 'slom', 1))]"
+"[Process(clock) object at 0x...>]"
+"[env.run(until=2)]"
+"[fast 0]"
+"[slow 0]"
+"[fast 0.5]"
+"[slow 1]"
+"[fast 1.0]"
+"[fast 1.5]"
+
+"[
 
 
 

@@ -563,6 +563,8 @@ from django.utils.import translation]"
 [https://github.com/Robertino10/-Boeing-747.git]
 "[class Customer(Process):]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[def buy(self,budget=0):]"
 
 
 

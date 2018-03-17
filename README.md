@@ -576,6 +576,8 @@ from django.utils.import translation]"
 "[yield hold,self,t]"
 [https://github.com/Robertino10/-Boeing-747.git]
 "[# executed 4 times at intervals of t time units]"
+[https://github.com/Robertino10/-Boeing-747.git]
+"[print 'Ijust bought something',self.name]"
 
 
 

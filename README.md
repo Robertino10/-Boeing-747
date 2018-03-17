@@ -590,6 +590,8 @@ from django.utils.import translation]"
 
 [https://github.com/Robertino10/-Boeing-747.git]
 "[initialize()]"
+[https://github.com/Robertino10/-Boeing-747.git]
+"[# create a customer named "Evelyn",
 
 
 

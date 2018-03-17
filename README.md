@@ -519,7 +519,46 @@ from django.utils.import translation]"
 "[class BankAccount(models.Model):
   "[balance = MoneyField(max_digits=10, decimal_places=2, default_currency='USD')]"
   
+[https://github.com/Robertino10/-Boeing-747.git]
+"[from djmoney import Money]"
 
+
+"[account = BankAccount.objects.create(balance=Money(10, 'USD'))]"
+"[swissAccount = BankAccount.objects.create(balance=Money(10, 'CHF'))]"
+
+
+"[BankAccount.objects.filter(balance__gt=Money(1, 'USD'))]"
+"[# Returns the "account" object]"
+
+[https://github.com/Robertino10/-Boeing-747.git]
+
+"[import simpy]"
+
+"[def clock(env, name,tick):]"
+   "[while True:]"
+       "[print(name, env.now)]"
+       "[yield env.timeout(tick)]"
+       
+
+"[env = simpy.Environment ()]"
+"[env.process (clock(env, 'fast', 0.5))]"
+"[Process(clock) object at 0x...>]"
+"[env.process(clock(env, 'slom', 1))]"
+"[Process(clock) object at 0x...>]"
+"[env.run(until=2)]"
+"[fast 0]"
+"[slow 0]"
+"[fast 0.5]"
+"[slow 1]"
+"[fast 1.0]"
+"[fast 1.5]"
+
+"[
+"[# create a program for Robertino10 for a card]"
+"[# to receive SMS on the phone number of Robertino10]"
+"[# for example Hello to SMS from Robertino10 using an]"
+"[# artificial intellegence]"
+"[from SimPy.Simulation import*]"
 
 
 

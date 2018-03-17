@@ -582,6 +582,8 @@ from django.utils.import translation]"
 [https://github.com/Robertino10/-Boeing-747.git]
 "[budget _= 10.00]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[print 'All I have left is ', budget,\]"
 
 
 

@@ -554,6 +554,11 @@ from django.utils.import translation]"
 "[fast 1.5]"
 
 "[
+"[# create a program for Robertino10 for a card]"
+"[# to receive SMS on the phone number of Robertino10]"
+"[# for example Hello to SMS from Robertino10 using an]"
+"[# artificial intellegence]"
+"[from SimPy.Simulation import*]"
 
 
 

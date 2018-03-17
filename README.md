@@ -599,6 +599,8 @@ from django.utils.import translation]"
 [https://github.com/Robertino10/-Boeing-747.git]
 "[# and activate her with a budget of 100]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[activate(C,C.buy(budget=100),at=10.o)]"
 
 
 

@@ -574,6 +574,8 @@ from django.utils.import translation]"
 "[for i in range(4):]"
 [https://github.com/Robertino10/-Boeing-747.git]
 "[yield hold,self,t]"
+[https://github.com/Robertino10/-Boeing-747.git]
+"[# executed 4 times at intervals of t time units]"
 
 
 

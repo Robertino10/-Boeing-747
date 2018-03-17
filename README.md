@@ -585,6 +585,8 @@ from django.utils.import translation]"
 [https://github.com/Robertino10/-Boeing-747.git]
 "[print 'All I have left is ', budget,\]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[' I am going home ',self.name,]"
 
 
 

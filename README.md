@@ -602,6 +602,9 @@ from django.utils.import translation]"
 [https://github.com/Robertino10/-Boeing-747.git]
 "[activate(C,C.buy(budget=100),at=10.o)]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[simulate(until=100.0)]"
+
 
 
 

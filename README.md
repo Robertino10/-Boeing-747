@@ -593,6 +593,8 @@ from django.utils.import translation]"
 [https://github.com/Robertino10/-Boeing-747.git]
 "[# create a customer named "Evelyn",
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[C = Customer(name='Evelyn')]"
 
 
 

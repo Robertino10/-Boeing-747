@@ -565,6 +565,8 @@ from django.utils.import translation]"
 
 [https://github.com/Robertino10/-Boeing-747.git]
 "[def buy(self,budget=0):]"
+[https://github.com/Robertino10/-Boeing-747.git]
+"[print 'Here I am at the shops', self.name]"
 
 
 

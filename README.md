@@ -560,6 +560,8 @@ from django.utils.import translation]"
 "[# artificial intellegence]"
 "[from SimPy.Simulation import*]"
 
+[https://github.com/Robertino10/-Boeing-747.git]
+"[class Customer(Process):]"
 
 
 

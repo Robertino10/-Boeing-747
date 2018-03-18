@@ -604,7 +604,12 @@ from django.utils.import translation]"
 
 [https://github.com/Robertino10/-Boeing-747.git]
 "[simulate(until=100.0)]"
-
+[https://github.com/Robertino10/-Boeing-747.git]
+"[def go(self):]"
+    "[print now(),self.i,'Starting']"
+    "[yield hold,self,100.0]"
+    "[print now(), self.i,'Arrived']"
+    
 
 
 
